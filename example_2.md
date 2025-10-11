@@ -1,5 +1,1 @@
-this is an example-content
-
-this is an extra line
-
-and another line
+this is another example
